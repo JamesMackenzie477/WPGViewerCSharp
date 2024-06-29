@@ -1,0 +1,9 @@
+D:\Projects\Hacking\Ironsight\WPGViewer\WPGViewer\bin\Debug\WPGViewer.exe.config
+D:\Projects\Hacking\Ironsight\WPGViewer\WPGViewer\bin\Debug\WPGViewer.exe
+D:\Projects\Hacking\Ironsight\WPGViewer\WPGViewer\bin\Debug\WPGViewer.pdb
+D:\Projects\Hacking\Ironsight\WPGViewer\WPGViewer\obj\Debug\WPGViewer.csprojResolveAssemblyReference.cache
+D:\Projects\Hacking\Ironsight\WPGViewer\WPGViewer\obj\Debug\WPGViewer.Properties.Resources.resources
+D:\Projects\Hacking\Ironsight\WPGViewer\WPGViewer\obj\Debug\WPGViewer.csproj.GenerateResource.Cache
+D:\Projects\Hacking\Ironsight\WPGViewer\WPGViewer\obj\Debug\WPGViewer.exe
+D:\Projects\Hacking\Ironsight\WPGViewer\WPGViewer\obj\Debug\WPGViewer.pdb
+D:\Projects\Hacking\Ironsight\WPGViewer\WPGViewer\obj\Debug\WPGViewer.Form1.resources
